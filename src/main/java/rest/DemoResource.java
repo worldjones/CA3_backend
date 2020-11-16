@@ -6,8 +6,6 @@ import dto.AddressDTO;
 import dto.ChuckDTO;
 import dto.CombinedDTO;
 import dto.DadDTO;
-import dto.FactDTO;
-import dto.FactsDTO;
 import dto.SwabiDTO;
 import entities.Address;
 import entities.Role;
